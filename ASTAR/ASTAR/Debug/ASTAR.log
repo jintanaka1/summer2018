@@ -1,0 +1,11 @@
+﻿  ASTAR.cpp
+c:\users\id student\source\repos\astar\astar\astar.cpp(14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\source\repos\astar\astar\astar.cpp(25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\source\repos\astar\astar\astar.cpp(26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\id student\source\repos\astar\astar\astar.cpp(38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\id student\source\repos\astar\astar\astar.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\utility(259): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\id student\source\repos\astar\astar\astar.cpp(90): note: see reference to function template instantiation 'std::pair<float,float> &std::pair<float,float>::operator =<double,double>(std::pair<double,double> &&)' being compiled
+  c:\users\id student\source\repos\astar\astar\astar.cpp(90): note: see reference to function template instantiation 'std::pair<float,float> &std::pair<float,float>::operator =<double,double>(std::pair<double,double> &&)' being compiled
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\utility(260): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ASTAR.vcxproj -> C:\Users\iD Student\source\repos\ASTAR\Debug\ASTAR.exe
